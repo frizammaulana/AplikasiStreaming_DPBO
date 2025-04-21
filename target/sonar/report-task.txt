@@ -1,0 +1,6 @@
+projectKey=Coba
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=Coba
+ceTaskId=d37c8fc9-7f27-4f98-865f-4f6458349fb0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d37c8fc9-7f27-4f98-865f-4f6458349fb0
